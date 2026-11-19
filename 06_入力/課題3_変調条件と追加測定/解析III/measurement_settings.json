@@ -1,0 +1,14 @@
+{
+  "source": "User messages in this chat, 2026-11-09, 2026-11-10, 2026-11-15 and 2026-11-18",
+  "fixed_sample_position": "中央",
+  "fixed_position_scope": "Voltage and modulation-frequency series",
+  "central_position_coordinates": {"x": 4.5, "z": 4.5},
+  "fixed_position_reason": "最大磁場の位置を特定できなかったため、中央で代替した（2026-11-15ユーザー確認）。",
+  "delay_time_s": 1.0,
+  "sensitivity": null,
+  "lockin_phase": null,
+  "time_constant_s": 0.2,
+  "voltage_convention": null,
+  "modulation_field_calibration": null,
+  "setting_changes": null
+}
